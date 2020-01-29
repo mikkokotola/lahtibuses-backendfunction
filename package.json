@@ -1,0 +1,13 @@
+{
+  "name": "lslbuses",
+  "version": "1.0.0",
+  "description": "LSL buses on a map",
+  "dependencies": {
+    "csv-parse": "^4.8.5",
+    "gtfs-realtime-bindings": "^0.0.5",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  },
+  "author": "Mikko Kotola",
+  "license": "MIT"
+}
